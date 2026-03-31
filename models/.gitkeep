@@ -1,0 +1,4 @@
+# This file ensures the directory is tracked by git
+# Trained models will be stored here (*.pkl, *.h5, *.zip)
+# Note: Model files are excluded from git due to size
+# Train models using notebooks/ML_Models_Training.ipynb and notebooks/DL_Models_Training.ipynb

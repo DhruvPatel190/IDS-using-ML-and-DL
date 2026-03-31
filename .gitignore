@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files
+*.csv
+!cicids2017_test_sample_10k.csv
+*.parquet
+*.feather
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.zip
+models/tabnet_model/
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Documentation (temporary files)
+README_FIRST.md
+QUICK_FIX.txt
+SWITCH_TO_PYTHON311.md
+INSTALL_FIX.md
+FIX_INSTALLATION.txt
+START_HERE_FINAL.md
+FINAL_SUMMARY.txt
+COMPLETE_GUIDE.md
+PROJECT_MAP.txt
+TRAINING_GUIDE.md
+MODELS_COMPLETE.md
+QUICK_START.txt
+WORKFLOW_DIAGRAM.txt
+RUN_APP.txt
