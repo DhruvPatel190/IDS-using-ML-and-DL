@@ -283,17 +283,6 @@ See `requirements.txt` for complete list. Key dependencies:
 - langchain
 - langchain-groq
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -301,14 +290,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Groq**: For providing fast LLM inference
 - **Open Source Community**: For the amazing ML/DL libraries
 
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star!
-
----
-
-**Note**: This is a research/educational project. For production deployment, network-specific fine-tuning is required. See [PROJECT_PRESENTATION.md](PROJECT_PRESENTATION.md) for detailed deployment guide.
