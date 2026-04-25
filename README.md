@@ -2,7 +2,6 @@
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.21](https://img.shields.io/badge/TensorFlow-2.21-orange.svg)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive Machine Learning-based Intrusion Detection System featuring 24 diverse models (ML + DL) with 99%+ accuracy on CICIDS2017 dataset. Includes AI-powered analysis using Groq LLM for explainable results.
 
